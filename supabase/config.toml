@@ -1,1 +1,4 @@
 project_id = "zblsgrfrqezngjyomsdn"
+
+[functions.hello-world]
+verify_jwt = false
